@@ -30,12 +30,12 @@ Use `feature_space_cache/map_to_feature_space.py` to save representations obtain
 
 To audit DP models fine-tuned with CIFAR10 in the substitute-adjacency threat model with various canaries:
 
-* Section [3.1]: Auditing Using Crafted Dataset Canaries: Run ```src/auditing_with_worst_case_datasets.ipynb```
-* Algorithm [2]: Auditing Using Gradient-Space Canaries: Run ```src/auditing_with_canary_gradient.py```
-* Algorithm [3]: Auditing Using Crafted Input Canary: Run ```src/auditing_with_canary_input.py``` 
-* Algorithm [4]: Auditing Using Crafted Mislabeled Canary: Run ```src/auditing_with_canary_label.py```
-* Algorithm [5]: Auditing Using Adversarial Natural Canary:  Run ```src/auditing_with_natural_sample.py```
-* Section [6.2.3]: To audit MLP trained from scratch using Purchase100: Run ```src/auditing_models_trained_from_scratch.py```.
+* **Section [3.1]**: Auditing Using Crafted Dataset Canaries: Run ```src/auditing_with_worst_case_datasets.ipynb```
+* **Algorithm [2]**: Auditing Using Gradient-Space Canaries: Run ```src/auditing_with_canary_gradient.py```
+* **Algorithm [3]**: Auditing Using Crafted Input Canary: Run ```src/auditing_with_canary_input.py``` 
+* **Algorithm [4]**: Auditing Using Crafted Mislabeled Canary: Run ```src/auditing_with_canary_label.py```
+* **Algorithm [5]**: Auditing Using Adversarial Natural Canary:  Run ```src/auditing_with_natural_sample.py```
+* **Section [6.2.3]**: To audit MLP trained from scratch using Purchase100: Run ```src/auditing_models_trained_from_scratch.py```.
 
 ### Plotting Auditing Results: 
 

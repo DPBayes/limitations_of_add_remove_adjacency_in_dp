@@ -41,3 +41,16 @@ To audit DP models fine-tuned with CIFAR10 in the substitute-adjacency threat mo
 
 We provide sample code in ```src/plotting_audit_results.ipynb``` to plot the auditing results.
 
+
+If you use this work, please cite:
+
+```bibtex
+@article{pradhan2025membershiplimitationsaddremoveadjacency,
+      title={Beyond Membership: Limitations of Add/Remove Adjacency in Differential Privacy}, 
+      author={Gauri Pradhan and Joonas Jälkö and Santiago Zanella-Bèguelin and Antti Honkela},
+      year={2025},
+      eprint={2511.21804},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2511.21804}, 
+}

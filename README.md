@@ -1,4 +1,4 @@
-## This repository contains the official code for the paper *Beyond Membership: Limitations of Add/Remove Adjacency in Differential Privacy*
+## This repository contains the official code for the paper: Beyond Membership: Limitations of Add/Remove Adjacency in Differential Privacy
 
 ### Dependencies:
 
